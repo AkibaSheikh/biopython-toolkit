@@ -5,3 +5,4 @@
 | --- | --- |
 | `01_python_setup/` | Set up Python, a virtual environment, VS Code and Jupyter. |
 | `02_python_libraries/` | Try the main Python libraries for bioinformatics. |
+| `03_biopython_core/` | Use Biopython for sequences, GC content, translation, alignment and BLAST. |
