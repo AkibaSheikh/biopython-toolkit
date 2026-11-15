@@ -1,0 +1,10 @@
+global score = 12.0
+target            0 ATCGAGCTAGC 11
+                  0 ||-|.|||||| 11
+query             0 AT-GGGCTAGC 10
+
+local score = 13.0
+target            3 GAGCTAGC 11
+                  0 |.||||||  8
+query             2 GGGCTAGC 10
+
