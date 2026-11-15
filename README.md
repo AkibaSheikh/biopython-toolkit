@@ -7,3 +7,4 @@
 | `02_python_libraries/` | Try the main Python libraries for bioinformatics. |
 | `03_biopython_core/` | Use Biopython for sequences, GC content, translation, alignment and BLAST. |
 | `04_sequence_analysis/` | Compare sequences with global and local alignment in Biopython. |
+| `04_sequence_analysis/` | Compare sequences with global and local alignment in Biopython. |
